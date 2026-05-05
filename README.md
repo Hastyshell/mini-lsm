@@ -6,6 +6,12 @@
 
 Build a simple key-value storage engine in a week! And extend your LSM engine on the second + third week.
 
+## Notice
+
+This repository is a personal learning record based on the original [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) project and its accompanying course materials. The original project, book, tests, and framework belong to their respective authors and contributors.
+
+My changes in this repository are intended to document my own implementation progress while studying Mini-LSM. This repository is not meant to claim authorship of the original course or framework.
+
 ## [Book](https://skyzh.github.io/mini-lsm)
 
 The Mini-LSM book is available at [https://skyzh.github.io/mini-lsm](https://skyzh.github.io/mini-lsm). You may follow this guide and implement the Mini-LSM storage engine. We have 3 weeks (parts) of the course, each of them consists of 7 days (chapters).
